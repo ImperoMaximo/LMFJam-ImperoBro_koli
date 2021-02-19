@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": SRTD:item/totem_of_fall"
+    "layer0": "SRTD:item/totem_of_fall"
   }
 }
