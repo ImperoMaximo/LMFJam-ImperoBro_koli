@@ -1,8 +1,7 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "block/vine",
-        "vine": "block/vine"
+        "vine": "block/rope_ladder"
     }
 
 }
