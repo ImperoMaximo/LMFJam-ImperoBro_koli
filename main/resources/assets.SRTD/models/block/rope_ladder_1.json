@@ -2,7 +2,7 @@
     "ambientocclusion": false,
     "textures": {
         "particle": "block/vine",
-        "rope_ladder": "block/rope_ladder"
+        "vine": "block/rope_ladder"
     },
     "elements": [
         {   "from": [ 0, 0, 15.2 ],
