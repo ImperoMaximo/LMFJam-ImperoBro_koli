@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "SRTD:block/rope_ladder"
+    "layer0": "srtd:block/bamboo_ladder_vine"
   }
 }
