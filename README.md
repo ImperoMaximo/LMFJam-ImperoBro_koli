@@ -16,4 +16,6 @@ Notre mod se nomme Steve Rush The Drake car il aide Steve, le héro de ce jeu in
   - Le totem de chute : en le tenant dans votre seconde main, vous obtiendrez une réduction de 25% de dégats de chutes !
   - Le totem de rapidité : en le tenant dans votre seconde main, vous gagnez en rapidité !
 
+La liste des crafts est disponible dans le fichier Crafts.
+
 Bon jeu à toutes et à tous!
