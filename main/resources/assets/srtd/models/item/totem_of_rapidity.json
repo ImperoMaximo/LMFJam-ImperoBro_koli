@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": 	{
+		"layer0": "srtd:item/totem_of_rapidity"
+			}
+}

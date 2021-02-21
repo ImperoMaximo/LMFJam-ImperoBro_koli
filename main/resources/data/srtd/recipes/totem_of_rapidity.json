@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ZZZ",
+		"ZYZ",
+		"ZZZ"
+	],
+	"key": {
+		"Y": {
+			"item": "minecraft:totem_of_undying"
+		},
+		"Z": {
+			"item": "minecraft:sugar"
+		}
+	},
+	"result": {
+		"item": "srtd:totem_of_rapidity"
+	}
+}

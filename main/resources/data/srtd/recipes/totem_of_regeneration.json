@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" X ",
+		"XYX",
+		" X "
+	],
+	"key": {
+		"Y": {
+			"item": "minecraft:totem_of_undying"
+		},
+		"X": {
+			"item": "minecraft:ghast_tear"
+		}
+	},
+	"result": {
+		"item": "srtd:totem_of_regeneration"
+	}
+}

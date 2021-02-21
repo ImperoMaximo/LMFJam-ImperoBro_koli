@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"YIY",
+		"XXX"
+	],
+	"key": {
+		"X": {
+			"item": "srtd:cereal"
+		},
+		"I": {
+			"item": "minecraft:sugar"
+		},
+		"Y": {
+			"item": "minecraft:apple"
+		}
+	},
+	"result": {
+		"item": "srtd:apple_bar"
+	}
+}
