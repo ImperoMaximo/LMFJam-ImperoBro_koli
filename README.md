@@ -3,7 +3,7 @@ Repo du mod de participation à l'évènement mondial des LMFJams 2021
 
 Notre mod se nomme Steve Rush The Drake car il aide Steve, le héro de ce jeu incarné par vous-même à avancer dans l'aventure das le monde périlleux de minecraft.
 
-- Echelle de bambou : nous vous offrons ici la possibiltée d'explorer les failles et les grottes plus facilement grâce a notre échelle de bambou fonctionnant comme une liane. attention, elle ne se stack que par 1 et est à usage unique ! Fonctionnant comme une vine, posez cette échelle sur les côtés d'un bloc et regardez la se déployer quasi instantanément ! Elle peut donc servir pour explorer les failles avec facilité.
+- Echelle de bambou : nous vous offrons ici la possibiltée d'explorer les failles et les grottes plus facilement grâce a notre échelle de bambou fonctionnant comme une liane. attention, elle ne se stack que par 1 et est à usage unique ! Fonctionnant comme une vine, posez cette échelle sur les côtés d'un bloc et regardez la se déployer lentement, vous avez donc le temps de finir vos préparatifs avant de descendre. Elle peut donc servir pour explorer les failles avec facilité.
 - Le casque de Mineur : vous en avez marre de ne rien voir autour de vous dans les grottes, la nuit ou dans le nether ? N'attendez plus, ce casque est fait pour vous. Changeant directement la luminosité du joueur vous pourrez voir comme de jour dans le nether, la nuit et les grottes !
 - La houe : voici une houe un peu spéciale, celle-ci bêche dans une zone de 3x3 centré autour du clic, rien de plus pratique pour gagner du temps dans votre aventure et arriver plus rapidement au dragon.
 - Les céréales : item servant par la suite à fabriquer des barres de céréales.
