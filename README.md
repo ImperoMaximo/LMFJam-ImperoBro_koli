@@ -12,8 +12,8 @@ Notre mod se nomme Steve Rush The Drake car il aide Steve, le héro de ce jeu in
   - La barre au chocolat : réservée au gourmands et étant pleine de sucre, elle va vous bouster en vous donnant un effet de rapidité pendant 2 minutes.
 - Les totems, il y'en a 4, une fois tenu dans la seconde main, ils vous donneront certains avantages. Ces items seront très utiles pour vos aventures notamment face au boss du jeu, l'Ender Dragon :
   - Le totem de vie : en le tenant dans votre seconde main, vous aurez accès à une deuxième barre de vie !
-  - Le totem de régénération : en le tenant dans votre seconde main, vous obtiendrez un effet de régénération !
-  - Le totem de chute : en le tenant dans votre seconde main, vous obtiendrez une réduction de 25% de dégats de chutes !
+  - Le totem de régénération : en le tenant dans votre seconde main, vous obtiendrez un effet de régénération ! (non-implémenté)
+  - Le totem de chute : en le tenant dans votre seconde main, vous obtiendrez une réduction des dégats de chutes !
   - Le totem de rapidité : en le tenant dans votre seconde main, vous gagnez en rapidité !
 
 La liste des crafts est disponible dans le fichier Crafts.
