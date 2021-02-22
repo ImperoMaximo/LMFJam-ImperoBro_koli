@@ -2,7 +2,7 @@
     "ambientocclusion": false,
     "textures": {
         "particle": "block/vine",
-        "vine": "block/bamboo_ladder_vine"
+        "vine": "srtd:block/bamboo_ladder_vine"
     },
     "elements": [
         {   "from": [ 0, 0, 0.8 ],
