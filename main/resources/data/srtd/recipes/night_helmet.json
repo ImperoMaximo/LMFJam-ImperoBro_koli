@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"XYX",
+		"X X"
+	],
+	"key": {
+		"X": {
+			"item": "minecraft:torch"
+		},
+		"Y": {
+			"item": "minecraft:diamond_helmet"
+		}
+	},
+	"result": {
+		"item": "srtd:night_helmet"
+	}
+}

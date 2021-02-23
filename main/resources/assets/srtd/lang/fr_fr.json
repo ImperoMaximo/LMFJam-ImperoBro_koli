@@ -1,0 +1,15 @@
+{
+  "item.srtd.hoe": "Houe triple",
+  "item.srtd.totem_of_rapidity": "Totem de rapidite",
+  "item.srtd.totem_of_fall": "Totem de chute",
+  "item.srtd.totem_of_health": "Totem de santé",
+  "item.srtd.cereal": "Cereale",
+  "item.srtd.chocolate_bar": "Barre chocolat",
+  "item.srtd.apple_bar": "Barre pomme",
+  "item.srtd.night_helmet": "Casque de mineur",
+  "item.srtd.bamboo_ladder_vine": "Echelle de bambou",
+
+  "itemGroup.srtd": "SRTD",
+
+  "block.srtd.bamboo_ladder_vine": "Echelle de bambou"
+}
